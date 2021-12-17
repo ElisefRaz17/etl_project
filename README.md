@@ -12,4 +12,4 @@ I extracted the data showcased the amount of house rentals made during 2014 - 20
 
 contributor: Elise Frazier
 Data Source: Zillow, 2021
-Software Used: Anaconda(Jupyter Notebook), Python, AWS Services
+Software Used: Anaconda(Jupyter Notebook), Python, AWS Services(SageMaker)
