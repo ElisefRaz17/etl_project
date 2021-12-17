@@ -7,7 +7,7 @@ For this project it was a final exam students are instructed complete the ETL pr
 
 My Process:
 
-I extracted the data showcased the amount of house rentals made during 2014 - 2021 and I was able to sort and organize over 400 rows of data that included the RegionName, ID, home values for each month based on Region. In my house_rentals file you should be able to see the visualization I have made over the extracted data. But please do visit my LinkedIn: https://www.linkedin.com/in/elise-frazier-89b356180/ if you would like to see my video demonstration of the data visualation. Thank you!
+I extracted the data showcased the amount of house rentals made during 2014 - 2021 and I was able to sort and organize over 400 rows of data that included the RegionName, ID, home values for each month based on Region. In my house_rentals file you should be able to see the visualization I have made over the extracted data. But please do visit my LinkedIn: https://www.linkedin.com/in/elise-frazier-89b356180/ if you would like to connect and learn more about my project. Lastly, feel free to checkout my video that showcases the data visualization I was able to implement from the data: https://youtu.be/Eor6HMHSo1o .Thank you!
 
 
 contributor: Elise Frazier
